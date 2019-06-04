@@ -1,0 +1,36 @@
+Barchetta
+Berlinetta
+Brougham
+Buggy
+Cab forward
+Cabrio coach
+Convertible
+Combi coupé
+Combination car
+Compact van
+Coupé
+Coupe de Ville
+Coupé utility
+Dune buggy
+Fastback
+Forecar
+Hardtop
+Hatchback
+Hearse
+High wheeler
+Landau
+Landaulet
+Limousine
+Panel van
+Phaeton body
+Professional car
+Quad coupé
+Roadster
+Roadster utility
+Runabout
+Sedan
+Shooting-brake
+Station wagon
+Touring car
+Van
+
